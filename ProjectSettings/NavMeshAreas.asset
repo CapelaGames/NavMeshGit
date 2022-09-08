@@ -11,10 +11,10 @@ NavMeshProjectSettings:
     cost: 1
   - name: Jump
     cost: 2
-  - name: 
-    cost: 1
-  - name: 
-    cost: 1
+  - name: Fire
+    cost: 100
+  - name: TallGrass
+    cost: 10
   - name: 
     cost: 1
   - name: 
